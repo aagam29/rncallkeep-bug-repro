@@ -60,12 +60,8 @@ class CallKeepComponent extends Component {
   render() {
     return (
       <View>
-        {/* <Button
-          title="request permissions"
-          onPress={this.requestCameraPermission}
-        /> */}
         <Text>
-          Hey!!!!!
+          RN CallKeep POC
       </Text>
       </View>
 

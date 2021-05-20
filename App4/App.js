@@ -19,9 +19,6 @@ const App = () => {
       >
         <Header />
         <View>
-          <Text>
-            Hey!!
-          </Text>
           <CallKeepComponent />
         </View>
       </ScrollView>
